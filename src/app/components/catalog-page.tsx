@@ -13,10 +13,10 @@ interface CatalogPageProps {
 const allProducts = [
   {
     id: 1,
-    name: 'Chaqueta Denim Vintage',
+    name: 'test',
     price: '45€',
-    image: 'https://images.unsplash.com/photo-1742392133846-a8b416e81661?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx2aW50YWdlJTIwZGVuaW0lMjBqYWNrZXQlMjBoYW5nZXJ8ZW58MXx8fHwxNzcwMjU3NDA5fDA&ixlib=rb-4.1.0&q=80&w=1080',
-    condition: 'Excelente',
+    image: 'https://media.tenor.com/SIAiO7He2f4AAAAM/ronaldo-meme-ronaldo.gif',
+    condition: 'una verga',
     category: 'mujer',
     type: 'chaquetas'
   },
