@@ -13,9 +13,9 @@ interface ProductDetailPageProps {
 const productDetails: Record<number, any> = {
   1: {
     id: 1,
-    name: 'Chaqueta Denim Vintage',
+    name: 'test',
     price: '45€',
-    image: 'htts://images.unsplash.com/photo-1742392133846-a8b416e81661?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx2aW50YWdlJTIwZGVuaW0lMjBqYWNrZXQlMjBoYW5nZXJ8ZW58MXx8fHwxNzcwMjU3NDA5fDA&ixlib=rb-4.1.0&q=80&w=1080',
+    image: 'https://media.tenor.com/SIAiO7He2f4AAAAM/ronaldo-meme-ronaldo.gif',
     condition: 'Excelente',
     description: 'Clásica chaqueta de denim en tono azul desgastado. Perfecta para cualquier ocasión casual. Corte oversize con detalles vintage auténticos.',
     size: 'M',
